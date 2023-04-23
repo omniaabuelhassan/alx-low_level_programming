@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - it is a main function
+ * main - Entry point
  *
  *Description: program that prints with put function
- *Rutern:always function return 0 if it success
+ *Rutern: balways function return 0(success)
 */
 int main(void)
 {
