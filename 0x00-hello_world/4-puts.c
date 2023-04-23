@@ -2,8 +2,8 @@
 /**
  * main - Entry point
  *
- *Description: program that prints with put function
- *Rutern: balways function return 0(success)
+ * Description: program that prints with put function
+ * Rutern:always function return 0(success)
 */
 int main(void)
 {
