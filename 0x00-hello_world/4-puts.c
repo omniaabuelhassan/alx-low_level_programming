@@ -1,15 +1,12 @@
 #include <stdio.h>
-
 /**
- * main -Entry point 
+ * main - it is a main function and  in this program prints a line with puts function
  *
- * Description: A C program that prints with put function 
- *
- * Rutern: always 0 (success) 
- */
-
-int main (void)
+ *Description: program that prints with put function
+ *Rutern:always function return 0 if it success
+*/
+int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
