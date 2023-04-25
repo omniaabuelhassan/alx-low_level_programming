@@ -10,8 +10,8 @@ int main(void)
 char ch = 'z';
 while (ch >= 'a')
 {
-putchat(ch);
-ch--;
+	putchar(ch);
+	ch--;
 }
 putchar('\n');
 return (0);
