@@ -9,13 +9,13 @@ int main(void)
 {
 char chs = a;
 char chc = A;
-while (chs <= z)
+while (chs <= 'z')
 {
 putchar(chs);
 chs++;
 putchar('\n');
 }
-while (chc <= Z)
+while (chc <= 'Z')
 {
 putchar(chc);
 chc++;
