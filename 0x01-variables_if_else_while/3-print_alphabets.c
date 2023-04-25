@@ -13,13 +13,12 @@ while (chs <= 'z')
 {
 putchar(chs);
 chs++;
-putchar('\n');
 }
 while (chc <= 'Z')
 {
 putchar(chc);
 chc++;
-putchar('\n');
 }
+putchar('\n');
 return (0);
 }
